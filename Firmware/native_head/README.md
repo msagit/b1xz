@@ -1,0 +1,1 @@
+Marlin confir for native B1 printhead
