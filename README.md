@@ -1,1 +1,4 @@
-B1XZ mod for BIQU B1. Convert your B1 into CoreXZ to get excelent Z axis.
+B1XZ mod for BIQU B1. 
+Convert your BIQU B1 into CoreXZ
+
+https://www.thingiverse.com/thing:4783263
