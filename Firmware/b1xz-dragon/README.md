@@ -1,1 +1,1 @@
-Marlin confir for dragon printhead
+Marlin config for dragon printhead

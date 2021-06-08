@@ -1,1 +1,1 @@
-Marlin confir for native B1 printhead
+Marlin config for native B1 printhead
