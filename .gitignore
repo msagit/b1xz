@@ -1,2 +1,4 @@
 #Backup Fils for Ghostscript
 *.backup
+#FreeCAD backup Files
+*.FCStd1
