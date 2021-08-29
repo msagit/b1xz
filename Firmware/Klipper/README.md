@@ -9,6 +9,7 @@ Quick steps to get Klipper up and running:
 5. [Calibrate Extruder Steps/mm](https://mattshub.com/blogs/blog/extruder-calibration)
 6. Optional (but recommended): tune [Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html)
 7. Optional (but recommended): tune [Pressure Advance](https://www.klipper3d.org/Pressure_Advance.html)
+8. Optional (But recommeended): tune [Firmware Retraction](https://www.thingiverse.com/thing:4532977)
 
 For more and complete info refer to [Klipper Documentation](https://www.klipper3d.org/Installation.html)
 
@@ -25,7 +26,7 @@ For Klipper installation refer to [fluiddpi](https://docs.fluidd.xyz/installatio
 ## Klipper Configuration
 
 For Kipper configuration specific to the B1 the file **printer.cfg** is self explanatory.
-The configuration file is splitted in various files in order 
+The configuration file is splitted in various files in order not to change too much if using different extruders, hotends or probes. Just use the include statements.
 
 ## Slicer Settings
 

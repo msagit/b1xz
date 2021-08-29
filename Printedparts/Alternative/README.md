@@ -15,6 +15,15 @@ Instead of keyback you could use a generic,cheaper keychain from Amazon.
 - 2x M4x25 SHCS
 - 2x M4 T-Nuts
 
+## Stock Extruder 2020 Mount
+
+This is a mount for the stock extruder on 2020 top profile.
+
+### BOM 
+
+- 3x M4x10 BHCS
+- 3x M4 T-Nuts
+
 ## Adapter Plate Cover
 
-This is a redesigned adapter plate to ensure better fix of the original print head to the carriage. Not mandatory but strongly recommended.
+This is a redesigned adapter plate to ensure better fix of the original print head to the carriage. Not mandatory but recommended.
